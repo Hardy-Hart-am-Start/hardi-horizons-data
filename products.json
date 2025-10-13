@@ -1,1 +1,10 @@
-{}
+{
+  "buy_001": {
+    "title": "Test 002",
+    "description": "Ich bin der aktuelle Test 002",
+    "price": "0.10",
+    "currency": "EUR",
+    "preview_path": "images/preview_buy_001.jpg",
+    "image_path": "images/original_buy_001.jpg"
+  }
+}
