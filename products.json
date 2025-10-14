@@ -1,14 +1,14 @@
 {
   "buy_002": {
-    "title": "Test02",
-    "description": "Ich Bin der zweite Testlauf",
+    "title": "Test03",
+    "description": "Ich bin der Test",
     "price": "0.10",
     "currency": "EUR",
     "preview_path": "images/preview_buy_002.jpg",
     "original_path": "images/original_buy_002.jpg",
     "preview_github": "images/preview_buy_002.jpg",
     "original_github": "images/original_buy_002.jpg",
-    "sales": 1,
-    "revenue": 0.1
+    "sales": 0,
+    "revenue": 0.0
   }
 }
