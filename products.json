@@ -1,14 +1,1 @@
-{
-  "buy_001": {
-    "title": "Test 01",
-    "description": "Ich bin die Beschreibung",
-    "price": "0.10",
-    "currency": "EUR",
-    "preview_path": "images/preview_buy_001.jpg",
-    "original_path": "images/original_buy_001.jpg",
-    "preview_github": "images/preview_buy_001.jpg",
-    "original_github": "images/original_buy_001.jpg",
-    "sales": 1,
-    "revenue": 0.1
-  }
-}
+{}
